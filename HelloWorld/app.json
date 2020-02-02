@@ -1,0 +1,19 @@
+{
+  "id": "2d62e292-0155-4253-9f28-021d299d6d6d",
+  "name": "HelloWorld",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "showMyCode": true,
+  "runtime": "1.0"
+}
